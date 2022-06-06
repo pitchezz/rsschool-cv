@@ -9,4 +9,4 @@
 ## Education
 * 2013-2018 The Russian University of Transport (RUT MIIT), Bachelor of Science (Economics) Degree
 ## Professional Skills
-* HTML/CSS/Javascript
+* HTML5, CSS3, Javascript
